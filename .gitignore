@@ -1,0 +1,4 @@
+agentsenv
+*.bin
+faiss
+__pycache__
